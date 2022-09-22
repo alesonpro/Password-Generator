@@ -15,7 +15,7 @@ function passwordRandom(length) {
 // function that render the password
 let string = document.getElementById("random-el") 
 function passwordRender(){
-    string.textContent = passwordRandom(15)
+    string.textContent = passwordRandom(12)
 }
 
 // copy password function 
