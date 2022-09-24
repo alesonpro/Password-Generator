@@ -165,6 +165,21 @@ footer{
         display: inline;
         font-size: 2.5rem;
     }
+
+    button {
+        font-size: 1rem;
+        color: black;
+        background-color: var(--secondary);
+        border: none;
+        border-radius: 10px;
+        margin-top: 1rem;
+        padding: 10px 25px;
+    }
+
+    button:hover{
+        background-color: var(--secondary);
+    }
+    
     #random-el {
         text-align: center;
         font-size: 1rem;
