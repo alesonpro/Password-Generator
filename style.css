@@ -28,6 +28,10 @@ body{
     line-height: 3rem;
 }
 
+.headings{
+    color: #273549;
+}
+
 .headings strong{
     display: block;
     color: var(--primary);
@@ -69,6 +73,10 @@ hr{
     border-radius: 10px;
     color: var(--primary);
     background-color: #273549;
+}
+
+footer{
+    color: #273549;
 }
 
 
